@@ -1,0 +1,479 @@
+[
+  {
+    "figureNumber": 1,
+    "figure": "1",
+    "name": "أنبوب التنفيس",
+    "english": "Breather Tube",
+    "aliases": "بريذر تنفيس",
+    "engine": "Volvo D13F",
+    "page": 10
+  },
+  {
+    "figureNumber": 2,
+    "figure": "1",
+    "name": "مجمع السحب",
+    "english": "Intake Manifold",
+    "aliases": "مانيفولد مشعب مجمع الهواء",
+    "engine": "Volvo D13F",
+    "page": 10
+  },
+  {
+    "figureNumber": 3,
+    "figure": "1",
+    "name": "ضاغط الهواء",
+    "english": "Air Compressor",
+    "aliases": "كمبروسر هواء كومبروسر",
+    "engine": "Volvo D13F",
+    "page": 10
+  },
+  {
+    "figureNumber": 4,
+    "figure": "1",
+    "name": "مضخة التوجيه المعزز",
+    "english": "Power Steering Pump",
+    "aliases": "طرمبة باور دركسون توجيه",
+    "engine": "Volvo D13F",
+    "page": 10
+  },
+  {
+    "figureNumber": 5,
+    "figure": "1",
+    "name": "مضخة الوقود",
+    "english": "Fuel Pump",
+    "aliases": "طرمبة طلمبة ديزل",
+    "engine": "Volvo D13F",
+    "page": 10
+  },
+  {
+    "figureNumber": 6,
+    "figure": "1",
+    "name": "وحدة التحكم الإلكترونية بالمحرك",
+    "english": "Engine Electronic Control Unit (EECU)",
+    "aliases": "كمبيوتر موتور ecu وحدة التحكم",
+    "engine": "Volvo D13F",
+    "page": 10
+  },
+  {
+    "figureNumber": 7,
+    "figure": "1",
+    "name": "فلتر الوقود",
+    "english": "Fuel Filter",
+    "aliases": "مرشح ديزل مصفي",
+    "engine": "Volvo D13F",
+    "page": 10
+  },
+  {
+    "figureNumber": 8,
+    "figure": "1",
+    "name": "فاصل الوقود والماء",
+    "english": "Fuel/Water Separator",
+    "aliases": "فلتر فاصل ماء ديزل",
+    "engine": "Volvo D13F",
+    "page": 10
+  },
+  {
+    "figureNumber": 9,
+    "figure": "1",
+    "name": "فلتر الوقود",
+    "english": "Fuel Filter",
+    "aliases": "مرشح ديزل مصفي",
+    "engine": "Volvo D13F",
+    "page": 10
+  },
+  {
+    "figureNumber": 10,
+    "figure": "1",
+    "name": "مضخة التحضير اليدوية",
+    "english": "Hand-Priming Pump",
+    "aliases": "طرمبة ضخ تحضير يدوي",
+    "engine": "Volvo D13F",
+    "page": 10
+  },
+  {
+    "figureNumber": 11,
+    "figure": "1",
+    "name": "منفّس علبة المرافق",
+    "english": "Crankcase Ventilator",
+    "aliases": "تهوية كارتير",
+    "engine": "Volvo D13F",
+    "page": 10
+  },
+  {
+    "figureNumber": 12,
+    "figure": "1",
+    "name": "حجرة خلط EGR",
+    "english": "EGR Mixing Chamber",
+    "aliases": "خلط عادم اي جي ار",
+    "engine": "Volvo D13F",
+    "page": 10
+  },
+  {
+    "figureNumber": 13,
+    "figure": "2",
+    "name": "مجمع العادم",
+    "english": "Exhaust Manifold",
+    "aliases": "مانيفولد اكزوز مشعب عادم",
+    "engine": "Volvo D13F",
+    "page": 11
+  },
+  {
+    "figureNumber": 14,
+    "figure": "2",
+    "name": "غطاء الصمامات",
+    "english": "Valve Cover",
+    "aliases": "غطاء بلوف غطاء المحرك",
+    "engine": "Volvo D13F",
+    "page": 11
+  },
+  {
+    "figureNumber": 15,
+    "figure": "2",
+    "name": "عنصر التسخين المسبق للمحرك (اختياري)",
+    "english": "Engine Pre-Heater Element (Optional)",
+    "aliases": "سخان تسخين",
+    "engine": "Volvo D13F",
+    "page": 11
+  },
+  {
+    "figureNumber": 16,
+    "figure": "2",
+    "name": "صمام DRV",
+    "english": "DRV Valve",
+    "aliases": "بلف صمام",
+    "engine": "Volvo D13F",
+    "page": 11
+  },
+  {
+    "figureNumber": 17,
+    "figure": "2",
+    "name": "مضخة سائل التبريد",
+    "english": "Coolant Pump",
+    "aliases": "طرمبة ماء مياه تبريد",
+    "engine": "Volvo D13F",
+    "page": 11
+  },
+  {
+    "figureNumber": 18,
+    "figure": "2",
+    "name": "فلتر سائل التبريد",
+    "english": "Coolant Filter",
+    "aliases": "فلتر ماء مياه مرشح تبريد",
+    "engine": "Volvo D13F",
+    "page": 11
+  },
+  {
+    "figureNumber": 19,
+    "figure": "2",
+    "name": "أنبوب فنتوري",
+    "english": "Venturi Pipe",
+    "aliases": "فنتوري انبوب",
+    "engine": "Volvo D13F",
+    "page": 11
+  },
+  {
+    "figureNumber": 20,
+    "figure": "2",
+    "name": "فلاتر الزيت",
+    "english": "Oil Filters",
+    "aliases": "فلتر زيت مرشح زيت مصفي فلترات",
+    "engine": "Volvo D13F",
+    "page": 11
+  },
+  {
+    "figureNumber": 21,
+    "figure": "2",
+    "name": "حوض الزيت",
+    "english": "Oil Pan",
+    "aliases": "كارتير كارتر حوض زيت",
+    "engine": "Volvo D13F",
+    "page": 11
+  },
+  {
+    "figureNumber": 22,
+    "figure": "2",
+    "name": "مبرد EGR",
+    "english": "EGR Cooler",
+    "aliases": "مبرد عادم اي جي ار",
+    "engine": "Volvo D13F",
+    "page": 11
+  },
+  {
+    "figureNumber": 23,
+    "figure": "2",
+    "name": "الشاحن التوربيني",
+    "english": "Turbocharger",
+    "aliases": "تيربو تربو توربو شاحن",
+    "engine": "Volvo D13F",
+    "page": 11
+  },
+  {
+    "figureNumber": 24,
+    "figure": "2",
+    "name": "بادئ التشغيل",
+    "english": "Starter Motor",
+    "aliases": "سلف ستارتر بادئ محرك تشغيل",
+    "engine": "Volvo D13F",
+    "page": 11
+  },
+  {
+    "figureNumber": 25,
+    "figure": "2",
+    "name": "صمام EGR",
+    "english": "EGR Valve",
+    "aliases": "بلف اي جي ار صمام عادم",
+    "engine": "Volvo D13F",
+    "page": 11
+  },
+  {
+    "figureNumber": 1,
+    "figure": "12",
+    "name": "بادئ التشغيل",
+    "english": "Starter motor",
+    "aliases": "سلف ستارتر تشغيل",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 2,
+    "figure": "12",
+    "name": "سدادة تصريف حوض الزيت",
+    "english": "Oil pan drain plug",
+    "aliases": "صرة تصريف زيت سدادة",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 3,
+    "figure": "12",
+    "name": "فلتر الوقود الأولي وفاصل الماء",
+    "english": "Primary fuel-filter/water-separator",
+    "aliases": "مرشح ديزل فاصل ماء",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 4,
+    "figure": "12",
+    "name": "وحدة التحكم بالمحرك",
+    "english": "MCM (DDEC VI Electronics)",
+    "aliases": "كمبيوتر وحدة التحكم ام سي ام",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 5,
+    "figure": "12",
+    "name": "صمام إغلاق فلتر الوقود الثانوي",
+    "english": "Secondary fuel filter shutoff valve",
+    "aliases": "بلف فلتر ديزل",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 6,
+    "figure": "12",
+    "name": "فلتر الوقود الثانوي",
+    "english": "Secondary fuel filter",
+    "aliases": "مرشح مصفي فلتر ديزل",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 7,
+    "figure": "12",
+    "name": "مضخة الوقود",
+    "english": "Fuel pump",
+    "aliases": "طرمبة طلمبة ديزل",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 8,
+    "figure": "12",
+    "name": "ضاغط الهواء",
+    "english": "Air compressor",
+    "aliases": "كمبروسر كومبروسر هواء",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 9,
+    "figure": "12",
+    "name": "أنبوب تعبئة زيت المحرك",
+    "english": "Engine oil filling tube",
+    "aliases": "فتحة تعبئة زيت",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 10,
+    "figure": "12",
+    "name": "مولدات بوش (2)",
+    "english": "Bosch alternators (2)",
+    "aliases": "دينمو دينامو مولد كهرباء",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 11,
+    "figure": "12",
+    "name": "مقياس زيت المحرك",
+    "english": "Engine oil dipstick",
+    "aliases": "سيخ عيار زيت عصا قياس",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 12,
+    "figure": "12",
+    "name": "حساس فرق ضغط EGR",
+    "english": "EGR delta pressure sensor",
+    "aliases": "حساس ضغط عادم اي جي ار",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 13,
+    "figure": "12",
+    "name": "صمام EGR",
+    "english": "EGR valve",
+    "aliases": "بلف صمام عادم اي جي ار",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 14,
+    "figure": "12",
+    "name": "بوابة هواء السحب",
+    "english": "Intake throttle",
+    "aliases": "صمام بوابة سحب",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 15,
+    "figure": "12",
+    "name": "خلاط EGR",
+    "english": "EGR mixer",
+    "aliases": "خلط عادم اي جي ار",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 16,
+    "figure": "12",
+    "name": "مجمع السحب",
+    "english": "Intake manifold",
+    "aliases": "مانيفولد مشعب سحب",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 17,
+    "figure": "12",
+    "name": "ضفيرة المحرك",
+    "english": "Engine Harness",
+    "aliases": "اسلاك ظفيرة ضفيرة",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 18,
+    "figure": "12",
+    "name": "بيت الثرموستات",
+    "english": "Thermostat housing",
+    "aliases": "بلف حرارة ثرموستات",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 19,
+    "figure": "12",
+    "name": "مخرج ضاغط التيربو",
+    "english": "Turbo compressor outlet",
+    "aliases": "مخرج تربو توربو شاحن",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 20,
+    "figure": "12",
+    "name": "خط رجوع تبريد المشغّل",
+    "english": "Actuator coolant return line",
+    "aliases": "خرطوم ماء تبريد",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 21,
+    "figure": "12",
+    "name": "مشغّل بتحكم كهربائي",
+    "english": "Electrically controlled actuator",
+    "aliases": "مشغل اكتويتر كهرباء",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 22,
+    "figure": "12",
+    "name": "وحدة جرعات الهيدروكربون",
+    "english": "HC doser",
+    "aliases": "حاقن دوسر",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 23,
+    "figure": "12",
+    "name": "منفّس علبة المرافق المغلقة / فاصل الزيت",
+    "english": "Closed-crankcase breather/oil separator",
+    "aliases": "تهوية كارتير فاصل زيت",
+    "engine": "Detroit Series 60",
+    "page": 21
+  },
+  {
+    "figureNumber": 24,
+    "figure": "12",
+    "name": "مضخة الماء",
+    "english": "Water pump",
+    "aliases": "طرمبة ماء مياه تبريد",
+    "engine": "Detroit Series 60",
+    "page": 22
+  },
+  {
+    "figureNumber": 25,
+    "figure": "12",
+    "name": "مبرد EGR",
+    "english": "EGR cooler",
+    "aliases": "مبرد عادم اي جي ار",
+    "engine": "Detroit Series 60",
+    "page": 22
+  },
+  {
+    "figureNumber": 26,
+    "figure": "12",
+    "name": "فلتر الزيت (2)",
+    "english": "Oil filter (2)",
+    "aliases": "مرشح زيت مصفي",
+    "engine": "Detroit Series 60",
+    "page": 22
+  },
+  {
+    "figureNumber": 27,
+    "figure": "12",
+    "name": "أنبوب تنفيس علبة المرافق",
+    "english": "Crankcase breather tube",
+    "aliases": "انبوب تنفيس كارتير",
+    "engine": "Detroit Series 60",
+    "page": 22
+  },
+  {
+    "figureNumber": 28,
+    "figure": "12",
+    "name": "أنبوب EGR",
+    "english": "EGR tube",
+    "aliases": "انبوب عادم اي جي ار",
+    "engine": "Detroit Series 60",
+    "page": 22
+  }
+]

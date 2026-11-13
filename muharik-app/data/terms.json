@@ -1,0 +1,289 @@
+[
+  {
+    "name": "حساس حرارة الهواء المحيط",
+    "english": "Ambient Air Temperature Sensor",
+    "engine": "Volvo D13",
+    "page": 7,
+    "aliases": "جو حراره"
+  },
+  {
+    "name": "حساس الضغط الجوي",
+    "english": "Ambient (Atmospheric) Pressure Sensor",
+    "engine": "Volvo D13",
+    "page": 8,
+    "aliases": "ضغط الجو"
+  },
+  {
+    "name": "حساس موضع عمود الكامات",
+    "english": "Camshaft Position Sensor",
+    "engine": "Volvo D13",
+    "page": 8,
+    "aliases": "كامة كامشافت"
+  },
+  {
+    "name": "حساس موضع عمود المرفق",
+    "english": "Crankshaft Position (Engine Speed) Sensor",
+    "engine": "Volvo D13",
+    "page": 8,
+    "aliases": "كرنك دوران سرعة"
+  },
+  {
+    "name": "حساس فرق ضغط مرشح الجسيمات",
+    "english": "Differential Pressure DPF Sensor",
+    "engine": "Volvo D13",
+    "page": 8,
+    "aliases": "دي بي اف دبة رصاص"
+  },
+  {
+    "name": "حساس فرق ضغط EGR",
+    "english": "EGR Differential Pressure Sensor",
+    "engine": "Volvo D13",
+    "page": 8,
+    "aliases": "عادم"
+  },
+  {
+    "name": "حساس حرارة EGR",
+    "english": "EGR Temperature Sensor",
+    "engine": "Volvo D13",
+    "page": 8,
+    "aliases": "عادم حرارة"
+  },
+  {
+    "name": "حساس مستوى سائل التبريد",
+    "english": "Engine Coolant Level (ECL) Sensor",
+    "engine": "Volvo D13",
+    "page": 8,
+    "aliases": "حساس مستوى الماء مياه رديتر"
+  },
+  {
+    "name": "حساس حرارة سائل التبريد",
+    "english": "Engine Coolant Temperature Sensor",
+    "engine": "Volvo D13",
+    "page": 8,
+    "aliases": "حرارة الماء مياه رديتر ECT"
+  },
+  {
+    "name": "حساس ضغط زيت المحرك",
+    "english": "Engine Oil Pressure Sensor",
+    "engine": "Volvo D13",
+    "page": 8,
+    "aliases": "زيت EOP"
+  },
+  {
+    "name": "حساس مستوى زيت المحرك",
+    "english": "Engine Oil Level Sensor",
+    "engine": "Volvo D13",
+    "page": 8,
+    "aliases": "عيار زيت EOL"
+  },
+  {
+    "name": "حساس حرارة زيت المحرك",
+    "english": "Engine Oil Temperature Sensor",
+    "engine": "Volvo D13",
+    "page": 8,
+    "aliases": "زيت EOT"
+  },
+  {
+    "name": "حساس حرارة العادم",
+    "english": "Exhaust Temperature Sensor",
+    "engine": "Volvo D13",
+    "page": 9,
+    "aliases": "حرارة عادم DPF"
+  },
+  {
+    "name": "حساس ضغط الوقود",
+    "english": "Fuel Pressure Sensor",
+    "engine": "Volvo D13",
+    "page": 9,
+    "aliases": "ديزل"
+  },
+  {
+    "name": "حساس حرارة ورطوبة هواء السحب",
+    "english": "Intake Air Temperature and Humidity (IATH) Sensor",
+    "engine": "Volvo D13",
+    "page": 9,
+    "aliases": "هواء سحب IATH"
+  },
+  {
+    "name": "حساس حرارة مجمع السحب",
+    "english": "Intake Manifold (Boost) Temperature Sensor",
+    "engine": "Volvo D13",
+    "page": 9,
+    "aliases": "حرارة هواء سحب"
+  },
+  {
+    "name": "حساس ضغط مجمع السحب",
+    "english": "Intake Manifold Pressure Sensor",
+    "engine": "Volvo D13",
+    "page": 9,
+    "aliases": "ضغط هواء سحب"
+  },
+  {
+    "name": "حساس موضع دواسة الوقود",
+    "english": "Throttle Position Sensor",
+    "engine": "Volvo D13",
+    "page": 9,
+    "aliases": "دعسة دواسة بنزين TP"
+  },
+  {
+    "name": "حساس سرعة التيربو",
+    "english": "Turbo Speed Sensor",
+    "engine": "Volvo D13",
+    "page": 9,
+    "aliases": "تربو توربو سرعة"
+  },
+  {
+    "name": "مشغل التيربو متغير الهندسة",
+    "english": "Variable Geometry Turbocharger Smart Remote Actuator",
+    "engine": "Volvo D13",
+    "page": 9,
+    "aliases": "VGT مشغل تربو توربو"
+  },
+  {
+    "name": "حساس موضع عمود الكامات",
+    "english": "Camshaft Position Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "كامة كامشافت CMP"
+  },
+  {
+    "name": "حساس موضع عمود المرفق",
+    "english": "Crankshaft Position Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "كرنك CKP"
+  },
+  {
+    "name": "حساس ضغط مدخل مرشح الجسيمات",
+    "english": "DPF Inlet Pressure Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "دي بي اف"
+  },
+  {
+    "name": "حساس ضغط مخرج مرشح الجسيمات",
+    "english": "DPF Outlet Pressure Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "دي بي اف"
+  },
+  {
+    "name": "حساس حرارة مخرج مرشح الجسيمات",
+    "english": "DPF Outlet Temperature Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "حرارة دي بي اف"
+  },
+  {
+    "name": "حساس حرارة مدخل DOC",
+    "english": "DOC Inlet Temperature Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "حرارة"
+  },
+  {
+    "name": "حساس حرارة مخرج DOC",
+    "english": "DOC Outlet Temperature Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "حرارة"
+  },
+  {
+    "name": "حساس فرق ضغط EGR",
+    "english": "EGR Delta Pressure Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "عادم"
+  },
+  {
+    "name": "حساس حرارة EGR",
+    "english": "EGR Temperature Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "عادم"
+  },
+  {
+    "name": "حساس حرارة سائل التبريد",
+    "english": "Engine Coolant Temperature Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "ماء مياه حرارة ECT"
+  },
+  {
+    "name": "حساس ضغط زيت المحرك",
+    "english": "Engine Oil Pressure Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "زيت EOP"
+  },
+  {
+    "name": "حساس حرارة زيت المحرك",
+    "english": "Engine Oil Temperature Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "زيت حرارة EOT"
+  },
+  {
+    "name": "حساس ضغط خط الوقود",
+    "english": "Fuel Line Pressure Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "ديزل"
+  },
+  {
+    "name": "حساس ضغط تعويض الوقود",
+    "english": "Fuel Compensation Pressure Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "ديزل"
+  },
+  {
+    "name": "حساس ضغط مجمع السحب",
+    "english": "Intake Manifold Pressure Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "هواء سحب IMP"
+  },
+  {
+    "name": "حساس حرارة هواء مجمع السحب",
+    "english": "Intake Manifold Air Temperature Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "هواء سحب IMT"
+  },
+  {
+    "name": "حساس حرارة الوقود المغذي",
+    "english": "Supply Fuel Temperature Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "ديزل SFT"
+  },
+  {
+    "name": "حساس حرارة مخرج ضاغط التيربو",
+    "english": "Turbo Compressor Temperature Out Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "تيربو تربو توربو"
+  },
+  {
+    "name": "حساس سرعة التيربو",
+    "english": "Turbo Speed Sensor",
+    "engine": "Detroit Series 60",
+    "page": 22,
+    "aliases": "تيربو تربو توربو TSS"
+  },
+  {
+    "name": "حساس مستوى سائل التبريد",
+    "english": "Engine Coolant Level Sensor",
+    "engine": "Detroit Series 60",
+    "page": 23,
+    "aliases": "ماء مياه ECL"
+  },
+  {
+    "name": "حساس سرعة المركبة",
+    "english": "Vehicle Speed Sensor",
+    "engine": "Detroit Series 60",
+    "page": 23,
+    "aliases": "سرعة VSS"
+  }
+]
